@@ -1,16 +1,3 @@
---[[
-	# Darkceius' instance serializer
-	* Builder: Vanilla (vanilla)
-	* Took: 27 ms
-	
-	* Stats:
-	{
-		blocks = 63,
-		main_locals = 20,
-		instances = 106,
-	}
-]]
-
 local rightUpperArm, rightUpperArmMotor6d, torso, torsoMotor6d, rightLowerArm, rightLowerArmMotor6d, rightLeg, rightLegMotor6d, leftUpperArm, leftUpperArmMotor6d, humanoidRootPart, rootPart, weldConstraint, head, headMotor6d, leftLeg, leftLegMotor6d, leftLowerArm, leftLowerArmMotor6d
 
 local astroMonster = Instance.new("Model")
