@@ -96,7 +96,7 @@ do
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://106507956625927"
+		walk.AnimationId = "rbxassetid://134459370783019"
 		walk.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
