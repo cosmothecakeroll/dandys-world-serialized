@@ -23,7 +23,7 @@ do
 		rise.AnimationId = "rbxassetid://136059017878028"
 		rise.Parent = animations
 		local return_2 = Instance.new("Animation")
-		return_2.Name = "Return"
+		return_2.Name = "LostInterest"
 		return_2.AnimationId = "rbxassetid://82436298975081"
 		return_2.Parent = animations
 		local attack = Instance.new("Animation")
