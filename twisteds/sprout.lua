@@ -46,11 +46,11 @@ do
 		grab.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://77255680036449"
+		idle.AnimationId = "rbxassetid://120388640080430"
 		idle.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://125289313158583"
+		lostInterest.AnimationId = "rbxassetid://100966930839128"
 		lostInterest.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
@@ -58,11 +58,11 @@ do
 		attack.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
-		run.AnimationId = "rbxassetid://118404417415051"
+		run.AnimationId = "rbxassetid://126212244949811"
 		run.Parent = animations
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://127091843916999"
+		walk.AnimationId = "rbxassetid://127806534408120"
 		walk.Parent = animations
 	end
 	animations.Parent = sproutMonster
