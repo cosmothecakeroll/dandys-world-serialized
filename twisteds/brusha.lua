@@ -8,7 +8,7 @@ do
 	do
 		local walk = Instance.new("Animation")
 		walk.Name = "Walk"
-		walk.AnimationId = "rbxassetid://87860435856002"
+		walk.AnimationId = "rbxassetid://99268483331258"
 		walk.Parent = animations
 		local run = Instance.new("Animation")
 		run.Name = "Run"
@@ -16,15 +16,15 @@ do
 		run.Parent = animations
 		local lostInterest = Instance.new("Animation")
 		lostInterest.Name = "LostInterest"
-		lostInterest.AnimationId = "rbxassetid://112554223563625"
+		lostInterest.AnimationId = "rbxassetid://138555477963908"
 		lostInterest.Parent = animations
 		local idle = Instance.new("Animation")
 		idle.Name = "Idle"
-		idle.AnimationId = "rbxassetid://96757103084883"
+		idle.AnimationId = "rbxassetid://122123246629207"
 		idle.Parent = animations
 		local attack = Instance.new("Animation")
 		attack.Name = "Attack"
-		attack.AnimationId = "rbxassetid://72398047665433"
+		attack.AnimationId = "rbxassetid://136331754033175"
 		attack.Parent = animations
 	end
 	animations.Parent = brushaMonster
