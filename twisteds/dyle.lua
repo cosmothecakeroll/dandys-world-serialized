@@ -1,4 +1,4 @@
-local gaugePositionReference, leftLowerArm, rightLowerArm, head, rightArm, rightArmMotor6d, head_2, headMotor6d, nameTagOverride, sanityMeter, rootPart, gaugePosition, nameTagOverride_2, weldConstraint, torso1, torso1motor6d, humanoidRootPart, leftArm, leftArmMotor6d, chain, chainMotor6d
+local gaugePositionReference, leftLowerArm, rightLowerArm, head, rightArm, rightArmMotor6d, head_2, headMotor6d, nameTagOverride, rootPart, gaugePosition, nameTagOverride_2, weldConstraint, torso1, torso1motor6d, humanoidRootPart, leftArm, leftArmMotor6d, chain, chainMotor6d
 
 local dyleMonster = Instance.new("Model")
 dyleMonster.Name = "DyleMonster"
@@ -193,16 +193,6 @@ do
 		stickerOverride.Name = "StickerOverride"
 		stickerOverride.CFrame = CFrame.new(Vector3.new(0, -4.2291, -9.9891))
 		stickerOverride.Parent = head_2
-		sanityMeter = Instance.new("BillboardGui")
-		sanityMeter.Name = "SanityMeter"
-		sanityMeter.MaxDistance = 45
-		sanityMeter.LightInfluence = 1
-		sanityMeter.Active = true
-		sanityMeter.ClipsDescendants = true
-		sanityMeter.AlwaysOnTop = true
-		sanityMeter.StudsOffsetWorldSpace = Vector3.yAxis
-		sanityMeter.Size = UDim2.fromScale(7, 7)
-		sanityMeter.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 		do
 			local generatorFrameBg = Instance.new("Frame")
 			generatorFrameBg.Name = "GeneratorFrameBG"
@@ -218,7 +208,6 @@ do
 				uicorner.CornerRadius = UDim.new(0.2, 0)
 				uicorner.Parent = generatorFrameBg
 			end
-			generatorFrameBg.Parent = sanityMeter
 			local generatorFrame = Instance.new("Frame")
 			generatorFrame.Name = "GeneratorFrame"
 			generatorFrame.BorderSizePixel = 0
@@ -246,9 +235,7 @@ do
 				end
 				currentAmount.Parent = generatorFrame
 			end
-			generatorFrame.Parent = sanityMeter
 		end
-		sanityMeter.Parent = head_2
 	end
 	head_2.Parent = dyleMonster
 	rootPart = Instance.new("Part")
@@ -804,7 +791,6 @@ rightArmMotor6d.Part1 = rightArm
 headMotor6d.Part0 = rootPart
 headMotor6d.Part1 = head_2
 nameTagOverride.Value = nameTagOverride_2
-sanityMeter.Adornee = head_2
 weldConstraint.Part1 = humanoidRootPart
 weldConstraint.Part0 = rootPart
 torso1motor6d.Part0 = rootPart
