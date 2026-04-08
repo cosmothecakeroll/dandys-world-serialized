@@ -131,7 +131,7 @@ return {
 		},
 
 		cosmo = {
-			["baker"] = "CosmoBaker",
+			["caramel drizzle"] = "CosmoBaker",
 			["berry"] = "CosmoBerry",
 			["dessertful scientist"] = "DessertfulScientist",
 			["snowtime"] = "SnowtimeCosmo",
@@ -241,7 +241,7 @@ return {
 			["startime"] = "DreamPebble",
 			["extra cheese"] = "ExtraCheese",
 			["loyal bud"] = "FlowerBud",
-			["gemstone"] = "GemPebble",
+			["thorned geode"] = "GemPebble",
 			["gleeful gift"] = "GleefulGift",
 			["served eggy"] = "PebbleEgged",
 			["vintage"] = "VintagePebble",
@@ -249,7 +249,7 @@ return {
 		},
 
 		poppy = {
-			["sapphire"] = "BluePoppy",
+			["sapphire dots"] = "BluePoppy",
 			["bowful beauty"] = "BowfulBeauty",
 			["confident caroler"] = "ConfidentCaroler",
 			["double bubble"] = "DoubleBubble",
@@ -258,7 +258,7 @@ return {
 		},
 
 		["razzle & dazzle"] = {
-			["aquaraz"] = "AquaRaz",
+			["seafoam"] = "AquaRaz",
 			["cozy christmas"] = "CozyChristmas",
 			["giftwrap and ribbons"] = "GiftwrapAndRibbons",
 			["matcha morning"] = "MatchaMorning",
@@ -276,7 +276,7 @@ return {
 
 		rodger = {
 			["ebony detective"] = "AceDetective",
-			["alpha wolf"] = "AlphaWolf",
+			["alpha sleeper"] = "AlphaWolf",
 			["festive detective"] = "FestiveDetective",
 			["list maker"] = "ListMaker",
 			["vintage"] = "VintageRodger",
@@ -313,7 +313,7 @@ return {
 			["grumpy carebear"] = "CareBear_Shrimpo",
 			["cranky christmas"] = "CrankyChristmas",
 			["fairy godmother"] = "FairyGodmother",
-			["punk"] = "PunkShrimpo",
+			["dark spikes"] = "PunkShrimpo",
 			["vintage"] = "VintageShrimpo",
 			["wilted daisies"] = "WiltedDaisies",
 		},
@@ -325,7 +325,7 @@ return {
 		},
 
 		sprout = {
-			["baker"] = "BakerSprout",
+			["salted caramel"] = "BakerSprout",
 			["berry beast"] = "BerryBeast",
 			["choco berry"] = "ChocoBerry",
 			["startime"] = "DreamSprout",
@@ -340,7 +340,7 @@ return {
 		},
 
 		teagan = {
-			["fancy dress"] = "FancyDress",
+			["purple elegance"] = "FancyDress",
 			["shining wreath"] = "ShiningWreath",
 			["vintage"] = "VintageTeagan",
 			["pastel porcelain"] = "PastelPorcelain",
@@ -366,7 +366,7 @@ return {
 			["startime"] = "DreamVee",
 			["holiday special"] = "HolidaySpecial",
 			["showtime"] = "ShowtimeVee",
-			["space"] = "VeeSpace",
+			["cosmic signal"] = "VeeSpace",
 			["vintage"] = "VintageVee",
 			["zapped creation"] = "ZappedCreation",
 			["veester bunny"] = "VeesterBunny",
