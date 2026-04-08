@@ -347,7 +347,7 @@ return {
 		},
 
 		tisha = {
-			["maid"] = "MaidTisha",
+			["lavender maid"] = "MaidTisha",
 			["vintage"] = "VintageTisha",
 			["winter mint"] = "WinterMint",
 			["spring cleaning"] = "SpringCleaning",
