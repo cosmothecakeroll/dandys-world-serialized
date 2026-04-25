@@ -1,3 +1,5 @@
+-- missing new skins :(
+
 return {
 	toonsandtwisteds = {
 		astro = "Astro",
