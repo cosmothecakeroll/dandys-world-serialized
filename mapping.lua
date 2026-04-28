@@ -1,4 +1,4 @@
--- missing new skins :(
+-- missing new skins from mrec to cur ill add them later
 
 return {
 	toonsandtwisteds = {
