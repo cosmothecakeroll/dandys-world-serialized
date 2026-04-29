@@ -2,12 +2,13 @@
 
 every rig and model was **serialized** (instance → script) manually using [Darkceius' Instance Serializer](https://create.roblox.com/store/asset/128675874900923/Instance-Serializer) because who uses automated systems ahaHAhaha
 
-includes all the toons and their skins as well as their twisted counterparts, items (excluding the enigma candy, christmas cookie, and the easter egg), maps, and some other stuff
+includes all the toons and their skins as well as their twisted counterparts, items, maps, and some other stuff
+
+> [!NOTE]
+>  the enigma candy, christmas cookie, and the easter egg item models are not included. if you have a .rbxm or a rbxl file containing said model(s) and are willing to provide them to us, please contact [**unable (@unaqle on Discord)**](https://discordapp.com/users/1041463056372346890)
 
 # credits
 
 **all assets** made by [BlushCrunch Studios](https://www.roblox.com/communities/14576965/BlushCrunch-Studio#!/about)
 
 **all rigs and models** were from a **.rbxm** file provided by **rafa (@rafas1to on Discord)**
-
-**Instance Serializer** by **Darkceius**
