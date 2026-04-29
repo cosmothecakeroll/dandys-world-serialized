@@ -1,6 +1,6 @@
 # info
 
-every rig and model was **serialized** (instance → script) manually using [Darkceius' Instance Serializer](https://create.roblox.com/store/asset/128675874900923/Instance-Serializer) because who uses automated systems
+every rig and model was **serialized** (instance → script) manually using [**Darkceius' Instance Serializer**](https://create.roblox.com/store/asset/128675874900923/Instance-Serializer) because we dont believe in automated systems
 
 includes all the toons and their skins as well as their twisted counterparts, items, maps, and some other stuff
 
